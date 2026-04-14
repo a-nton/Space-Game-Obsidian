@@ -58,7 +58,7 @@ This is technically simple to implement (frame rate cap, double-buffering, rende
 
 The [[Blathri Mor (Petal Giant)|Petal Giant]] red-light-green-light mechanic is already a mechanic about being observed. The giants watch. The player hides. One additional layer:
 
-During the singing phase, when the player is free to move, one giant should not be singing. It should be looking at the sky. At the Beholder. The player is free to pass it — it poses no threat in this moment. But the compositional framing of the scene (giant looking upward, Beholder visible above, player small between them) creates the image of the observer stack without saying anything.
+During the singing phase, when the player is free to move, one giant should not be singing. It should be looking at the sky. At the Beholder. The player is free to pass it, as it poses no threat in this moment. But the compositional framing of the scene (giant looking upward, Beholder visible above, player small between them) creates the image of the observer stack without saying anything.
 
 That particular giant — the one looking up — should be the only one that never looks at the player. Every other giant checks during the silence phase. This one only ever looks up. The player will notice. The game never explains why.
 
