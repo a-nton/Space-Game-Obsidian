@@ -156,21 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian-Basics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Obsidian-Basics"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +184,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "affaab665b29d822",
+  "active": "98745e5b2e74b18a",
   "lastOpenFiles": [
-    "Lore/Cosmology/Aeonic-Drive.md",
+    "World/Elven-Planet/Biomes/Heartbloom-Abattoir.md",
     "Obsidian-Basics.md",
+    "Lore/Cosmology/Aeonic-Drive.md",
     "Lore/Cosmology/The-Vessel.md",
     "Lore/Cosmology/The-Recursive-Observer-Stack.md",
     "Lore/Cosmology/The-Overseers.md",
@@ -203,7 +204,6 @@
     "World/Elven-Planet/Biomes/Caer-Bile.md",
     "World/Elven-Planet/Biomes/Elderwood-Highlands.md",
     "World/Elven-Planet/Biomes/Faeblight-Marsh.md",
-    "World/Elven-Planet/Biomes/Heartbloom-Abattoir.md",
     "World/Elven-Planet/Biomes/Knotroot-Canopy.md",
     "World/Elven-Planet/Biomes/The-Grove.md",
     "World/Elven-Planet/Biomes/Verdant-Expanse.md",

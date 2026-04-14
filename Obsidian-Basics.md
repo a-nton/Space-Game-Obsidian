@@ -3,4 +3,4 @@
 2. How to add tags?
 	Just type `#tagname` anywhere in a note. No setup needed. The tags I defined in the Conventions file (`#unresolved`, `#placeholder`, `#wip`, `#canon`) work the moment you type them. You can search all tags via the tag pane in the right sidebar, or use the search bar with `tag:#unresolved` to find everything that needs attention.
 3. How to view a table of contents of individual files in the sidebar?
-	1. Install the core plugin **Outline**. Go to Settings → Core plugins → toggle on **Outline**. It appears in the right sidebar and shows a clickable table of contents generated from your markdown headings (`##`, `###`, etc.) for whatever file you currently have open.
+	Enable the core plugin **Outline** if needed. Go to Settings → Core plugins → toggle on **Outline**. It appears in the right sidebar (Viewand shows a clickable table of contents generated from your markdown headings (`##`, `###`, etc.) for whatever file you currently have open.
