@@ -179,9 +179,19 @@
               "icon": "lucide-list",
               "title": "Outline of Project-Goals"
             }
+          },
+          {
+            "id": "42846858229409ff",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,8 +209,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "affaab665b29d822",
+  "active": "4a35461e0eb3cafc",
   "lastOpenFiles": [
+    "Dev/Open-Questions.md",
+    "Design/Enemies/Elderwood-Highlands/Blathri Mor (Petal Giant).md",
+    "Design/Enemies/Caer-Bile/Sciathan Darach (Blossom Eagle).md",
+    "Dev/Project-Goals.md",
+    "_Meta/Templates/Biome.md",
+    "Narrative/NPCs/Verdant-Expanse/Aine.md",
+    "Dev/Recruitment-Policies.md",
     "_Meta/Conventions.md",
     "Dev/Meetings/2026-03-22.md",
     "Lore/Cosmology/The-Overseers.md",
@@ -208,25 +225,18 @@
     "Lore/Cosmology/Aeonic-Drive.md",
     "Lore/Civilizations/Nemethari/Nemethari-Culture.md",
     "Lore/Civilizations/Athnemeton/Athnemeton-Overview.md",
-    "Dev/Project-Goals.md",
     "Design/Enemies/Verdant-Expanse/Fiafhreine (Moss Deer).md",
     "Design/Enemies/Verdant-Expanse/Dealgshiul (Thorn Ambusher).md",
     "Design/Enemies/Verdant-Expanse/Ard Fia na Fearach (Tree Giant).md",
     "Design/Enemies/Faeblight-Marsh/Oillipheist Faebhrigh (Great Serpent).md",
-    "Design/Enemies/Elderwood-Highlands/Blathri Mor (Petal Giant).md",
-    "Design/Enemies/Caer-Bile/Sciathan Darach (Blossom Eagle).md",
     "_Meta/Templates/Enemy.md",
     "_Meta/Templates/Character.md",
-    "_Meta/Templates/Biome.md",
     "_Meta/Templates/NPC.md",
     "_Meta/Glossary.md",
     "World/Elven-Planet/Biomes/Elderwood-Highlands.md",
     "Verdant Expanse.md",
     "Obsidian-Basics.md",
     "Knotroot Canopy.md",
-    "Elderwood Highlands.md",
-    "World/Elven-Planet/Biomes/Caer-Bile.md",
-    "World/Elven-Planet/Biomes/Verdant-Expanse.md",
     "World/Elven-Planet/Map/Plan_of_the_planet.png",
     "Dev/Meetings",
     "Design/Enemies/Verdant-Expanse",
