@@ -114,6 +114,6 @@ Christof speaks from an artificial moon and loves his creation the way a god lov
 
 ### Hades 2 — Chronos and the Necessary Prison
 
-Chronos (in an unco) needs and has created the suffering timeline so that the joy timeline means something. The defeat of Chronos is part of Chronos's plan because the defeat is where the feeling lives. The prison is built perfectly so that the escape is real and transcendent. A god who wants his creation to experience the full depth of liberation has to first engineer the full depth of captivity.
+Chronos (in an uncommon inventive interpretation, not really intended) needs and has created the suffering timeline so that the joy timeline means something. The defeat of Chronos is part of Chronos's plan because the defeat is where the feeling lives. The prison is built perfectly so that the escape is real and transcendent. A god who wants his creation to experience the full depth of liberation has to first engineer the full depth of captivity.
 
 **What fits:** The idea that the antagonist's defeat is part of the antagonist's design. If the Beholder's feeding mechanism requires that civilisations develop enough to be worth harvesting, then the Beholder needs the player to succeed. The player rebuilding the Aeonic Drive is exactly what the Beholder has been waiting for — a concentration of intelligence bright enough to be worth consuming. The player's victory is the Beholder's meal. This should dawn on the player slowly, through environmental evidence and ship log entries, and it should never be fully confirmed or denied.
