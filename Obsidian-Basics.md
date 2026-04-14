@@ -30,7 +30,7 @@
 [display text](https://example.com)
 ```
 
-**Lists:**
+**Lists. Two types:**
 
 ```
 - item
@@ -60,7 +60,7 @@
 > quoted text
 ```
 
-**Code** — inline with single backticks, blocks with triple:
+**Code** — inline with single backticks, blocks with triple. The gray boxes :
 
 ````
 Inline: `some code`
