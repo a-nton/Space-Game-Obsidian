@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Civilizations/Athnemeton/Athnemeton-Overview.md",
+                "file": "Lore/Cosmology/Aeonic-Drive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Athnemeton-Overview"
+              "title": "Aeonic-Drive"
             }
           }
         ]
@@ -186,6 +186,14 @@
   },
   "active": "98745e5b2e74b18a",
   "lastOpenFiles": [
+    "Lore/Cosmology/The-Overseers.md",
+    "Lore/Cosmology/The-Beholder.md",
+    "Lore/Cosmology/The-Accord.md",
+    "Lore/Cosmology/Nemethari-Elder.md",
+    "Lore/Cosmology/Aeonic-Drive.md",
+    "Lore/Civilizations/Athnemeton/Athnemeton-Overview.md",
+    "Lore/Civilizations/Athnemeton/Energy-Cycle-and-Soul-Gems.md",
+    "Lore/Civilizations/Nemethari/Nemethari-Culture.md",
     "Dev/Recruitment-Policies.md",
     "Dev/Project-Goals.md",
     "_Meta/Conventions.md",
@@ -214,14 +222,6 @@
     "_Meta/Templates/Biome.md",
     "_Meta/Templates",
     "World/Elven-Planet/Biomes/Verdant-Expanse.md",
-    "World/Elven-Planet/Biomes/The-Grove.md",
-    "World/Elven-Planet/Biomes/Knotroot-Canopy.md",
-    "World/Elven-Planet/Biomes/Heartbloom-Abattoir.md",
-    "World/Elven-Planet/Biomes/Faeblight-Marsh.md",
-    "World/Elven-Planet/Biomes/Elderwood-Highlands.md",
-    "World/Elven-Planet/Biomes/Caer-Bile.md",
-    "World/Elven-Planet/Map/Spatial-Layout.md",
-    "World/Elven-Planet/Map/Plan_of_the_planet.png",
-    "Narrative/Characters/The-Scholar.md"
+    "World/Elven-Planet/Map/Plan_of_the_planet.png"
   ]
 }

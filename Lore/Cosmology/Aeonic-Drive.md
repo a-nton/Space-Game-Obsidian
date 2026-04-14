@@ -21,7 +21,3 @@ After the Elder's final act of self-preservation, the Core shattered. The Vessel
 The Vessel itself is the seventh piece. It was built to interface with all six Disciplines simultaneously, and no other construct in the galaxy can do this. The "seventh piece" is not a separate object but the Vessel reconfigured into a bridge that harmonises the six Disciplines into a stable whole.
 
 The player should not learn they are the seventh component until late in the game. The dramatic weight of this revelation depends on the player having spent most of the journey believing the seventh piece is something they still need to find.
-
-## Naming
-
-#unresolved — The name "Aeonic Drive" is provisional. Alternatives considered: the Unbound Engine, the Recursive Core. The name references the Gnostic concept of Aeons (divine emanations) while reading as a plausible energy term. Decide before locking terminology.
