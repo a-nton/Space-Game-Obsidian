@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Meta/Glossary.md",
+                "file": "_Meta/Templates/Enemy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossary"
+              "title": "Enemy"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Meta/Glossary.md",
+                "file": "_Meta/Templates/Enemy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Glossary"
+              "title": "Outline of Enemy"
             }
           }
         ],
@@ -201,6 +201,10 @@
   },
   "active": "4a35461e0eb3cafc",
   "lastOpenFiles": [
+    "_Meta/Templates/Character.md",
+    "_Meta/Templates/Biome.md",
+    "_Meta/Templates/NPC.md",
+    "_Meta/Glossary.md",
     "World/Elven-Planet/Biomes/Elderwood-Highlands.md",
     "Verdant Expanse.md",
     "Obsidian-Basics.md",
@@ -210,12 +214,10 @@
     "World/Elven-Planet/Biomes/Verdant-Expanse.md",
     "The Grove.md",
     "README.md",
-    "_Meta/Glossary.md",
     "Design/Enemies/Verdant-Expanse/Fiafhreine (Moss Deer).md",
     "Design/Enemies/Verdant-Expanse/Dealgshiul (Thorn Ambusher).md",
     "Design/Enemies/Verdant-Expanse/Ard Fia na Fearach (Tree Giant).md",
     "Design/Enemies/Enemy-Index.md",
-    "_Meta/Templates/Biome.md",
     "Narrative/Characters/The-Scholar.md",
     "Narrative/NPCs/Verdant-Expanse/Aine.md",
     "World/Elven-Planet/Biomes/Faeblight-Marsh.md",
@@ -226,8 +228,6 @@
     "Lore/Cosmology/The-Vessel.md",
     "Lore/Cosmology/The-Recursive-Observer-Stack.md",
     "Lore/Cosmology/The-Overseers.md",
-    "Lore/Cosmology/The-Beholder.md",
-    "Lore/Cosmology/The-Accord.md",
     "Dev/Meetings",
     "Design/Enemies/Verdant-Expanse",
     "Design/Enemies/The-Grove",
