@@ -2,60 +2,84 @@
 
 Canonical terms and pronunciations. This is the single source of truth for naming.
 
+Pronunciation notes: IPA is given in slashes. The "approx" column gives the closest equivalent for non-linguists. Where Old Irish phonology applies, "ch" always represents the velar fricative /x/ (as in German *Bach*, Scottish *loch*), never English "ch" as in "church." The "th" represents /θ/ (as in English "thin"), a lenited "t." Broad/slender consonant distinctions are marked where relevant.
+
 ---
 
 ## Civilisations & Factions
 
-**Nemethari** (nem-eh-TAR-ee) — The original elf species. Cyclical culture rooted in Celtic analogues. Symbiotic relationship with nature. Homeworld is the elf planet.
+**Nemethari** — /ˌnɛmɛˈθaːɾʲi/ — approx: nem-eh-THAH-ree, with "th" as in "thin" and the final "r" lightly rolled and palatalised. The root *nemet-* is attested Gaulish for "sacred grove." The suffix *-hari* leans Germanic; this is acknowledged as a slight hybrid. The original elf species.
 
-**Athnemeton** (ath-NEM-eh-ton) — The civilisation on the Elder's constructed planet. A degraded recreation of the Nemethari from the Elder's fading memories. Name means "the grove remade."
+**Athnemeton** — /aθˈnɛmɛtɔn/ — approx: ath-NEM-eh-ton, with "th" as a soft breath (like "thin"), not a hard English "t." Stress on second syllable. From *ath-* (Old Irish: again, re-) + *nemeton* (Gaulish: sacred grove). "The grove remade." The civilisation on the Elder's constructed planet.
 
-**Cethrai** (KETH-rye) — Those connected to the energy cycle on the Elder's planet. Crystals intact. Live 100-year recycled spans. From Old Irish *ceithre*.
+**Cethrai** — /ˈkʲɛxɾˠiː/ — approx: KYEKH-ree, where "kh" is the German "ch" in "Buch" and the initial "c" is palatalised (softened, like a "ky" onset). NOT "keth-rye." From Old Irish *ceithre* (four), used as contraction of a phrase meaning "those within the cycle." Those connected to the energy cycle.
 
-**Dechrai** (DEKH-rye) — Those severed from the cycle. Crystals lost or broken. Must sustain themselves biologically. Live for thousands of years. From Old Irish *dí-* (without).
+**Dechrai** — /ˈdʲɛxɾˠiː/ — approx: DYEKH-ree, where "kh" is again the velar fricative and the initial "d" is palatalised (softened, like a "dy" onset). NOT "dekh-rye." From Old Irish *dí-* (without, away from) + the same root. "Those severed from the cycle."
 
-**The Accord** — The scientific coalition of six species that built the Aeonic Drive. Dissolved after the Beholder's arrival.
+**The Accord** — The scientific coalition of six species.
 
-**Overseers** — The six representatives enslaved by the Beholder, one from each species. Tasked with sabotaging their own civilisations. Gnostic Archon parallels.
+**Overseers** — No pronunciation issue. The six enslaved representatives.
 
 ## Cosmic Entities
 
-**The Beholder** — Primal entity outside conventional spacetime. Feeds by consuming knowledge, memory, and cognitive structure. The first split — observation as creation as division.
+**The Beholder** — No pronunciation issue. Primal entity outside conventional spacetime.
 
-**The Nemethari Elder** — Overseer of the Nemethari. Used the Amplification Core to transcend biological limits. Built the Athnemeton planet as camouflage. Now dead at the planet's core.
+**The Nemethari Elder** — See Nemethari above. Overseer of the Nemethari. Used the Amplification Core to transcend biological limits.
 
-**Athgeni** (ath-GEN-ee) — The Elder's sibling. Her appearance became the template for the entire Athnemeton species. Name means "reborn."
+**Athgeni** — /aθˈɡʲɛnʲi/ — approx: ath-GYEN-ee, with "th" as in "thin" and a palatalised "g" (softened, between English "g" and "gy"). From *ath-* (again) + *gein* (Old Irish: birth). "Reborn." The Elder's sibling.
 
 ## Technology
 
-**Aeonic Drive** — The Accord's energy project. Six Disciplines, one from each species, unified by a seventh component (the Vessel). Its detonation drew the Beholder.
+**Aeonic Drive** — /iːˈɒnɪk/ — standard English. The Accord's energy project.
 
-**Amplification Core** — The Nemethari contribution to the Drive. Magnifies any energy input. The Elder used it to ascend. Now shattered; a shard powers the player's ship.
+**Amplification Core** — standard English. The Nemethari contribution to the Drive.
 
-**The Vessel** — Biomechanical construct originally designed to house the Drive. Carries traits from all six species. Repurposed by the Beholder, later reactivated as the player character.
+**The Vessel** — standard English. Biomechanical construct, player character.
 
 ## Elven Planet — Locations
 
-**Caer Bile** (KARE bee-LAY) — The world tree. Hub city. Colossal living structure with vertical progression. Possibly an Accord-era installation reshaped by the Elder. From *Caer* (fortress) + *Bile* (sacred tree / god of death).
+**Caer Bilé** — /kaɪɾʲ ˈbʲiːlʲeː/ — approx: KIRE BEE-lyeh. "Caer" rhymes roughly with English "fire" (not "care"). The "r" is a single-tap. "Bilé" has a palatalised "b" (soft, like "by-"), a long "ee," and a palatalised "l" before a long "eh." From *Caer* (fortress) + *Bilé* (Irish deity of death / sacred tree). The world tree and hub city.
 
-**Verdant Expanse** — Intro area. Open plains with stone circles, druidic markers, village outposts.
+**Verdant Expanse** — standard English. Intro area.
 
-**Knotroot Canopy** — Dense jungle. Dark, green-lit, overgrown. Druidic sanctuary. Fungal threats.
+**Knotroot Canopy** — standard English. Dense jungle biome.
 
-**Faeblight Marsh** — Underground cavern with bioluminescent river. Platforming above water. Leviathan environmental hazard.
+**Faeblight Marsh** — standard English. Underground cavern biome.
 
-**The Grove** — Overgrown branch of the world tree. Wildling elf territory. Hostile until elder is reached.
+**The Grove** — standard English. Wildling elf territory.
 
-**Heartbloom Abattoir** — Secret area within the world tree's bark. Ritual sacrifice sites. Contains clues about Caer Bile's Accord-era origins.
+**Heartbloom Abattoir** — standard English / French. "Abattoir" is /ˈæbətwɑːɾ/.
 
-**Elderwood Highlands** — Crown of Caer Bile. Open garden of luminous petals. The Beholder is visible in the sky. Stealth-focused gameplay. Contains ship upgrade material.
+**Elderwood Highlands** — standard English. Crown of Caer Bilé.
 
 ## Parasites
 
-**Sreng** (SHRENG) — Proposed name for the parasitic infestation. From *Sreng*, a Fomorian warrior in Irish myth. Blue-purple chromatic signature. Originates from a nearby asteroid. Feeds on the Elder's remains at the planet's core.
+**Sreng** — /ʃɾʲɛŋɡ/ — approx: SHRENG, with a palatalised "r" blended into the initial cluster. The "s" before "r" in Old Irish is realised as /ʃ/ (like English "sh"). From *Sreng*, a Fomorian warrior in Irish myth.
+
+## Creatures (selected)
+
+**Fiafhreine** — /ˈfʲiəvɾˠeːnʲə/ — approx: FEE-uv-RAY-nyeh. "Fh" in Irish is silent; the initial cluster is palatalised "f." The "r" is broad (velarised).
+
+**Dealgshiul** — /ˈdʲalɡʃuːl/ — approx: DYALG-shool. Palatalised "d," broad "l" into "g," then "sh" + long "oo" + dark "l."
+
+**Oilliphéist** — /ˈɔlʲəfʲeːʃtʲ/ — approx: OL-yeh-FAYSHT. A real Old/Middle Irish word for "great beast" or "dragon." The "ph" is /fʲ/, the "éi" is a long "ay," and the final cluster is palatalised.
+
+**Cú Síth** — /kuː ʃiː/ — approx: KOO SHEE. Both words have long vowels. A real term from Scottish/Irish mythology meaning "fairy hound."
 
 ## Other
 
-**Cernunnos** (ker-NOO-nos) — Lord of liminal spaces. Proposed as Otherworld gatekeeper rather than boss encounter. Player pays in capability, not currency.
+**Cernunnos** — /kɛɾˈnuːnɔs/ — approx: ker-NOO-nos. This is actually a Gaulish name (not Old Irish), attested on the Pillar of the Boatmen. The pronunciation is relatively straightforward. Hard "k," single-tap "r," stress on second syllable, long "oo." Lord of liminal spaces.
 
-**Otherworld** — The dimension adjacent to the living world in Celtic mythology. May function as the substrate the Elder tapped into. Scope TBD — see #unresolved.
+**Otherworld** — standard English. Adjacent dimension in Celtic mythology.
+
+---
+
+## Quick Reference for Non-Linguists
+
+| Sound | How to say it | German equivalent | Example |
+|-------|--------------|-------------------|---------|
+| /x/ | Back of throat, like clearing it gently | "ch" in "Buch" | Ce**ch**rai, De**ch**rai |
+| /θ/ | Tongue between teeth, blow air | English "th" in "thin" | A**th**nemeton, A**th**geni |
+| /ʃ/ | English "sh" | German "sch" | **S**reng, Dealg**sh**iul |
+| Palatalised C/D | Soften with a "y" onset | — | **Ky**ekhree, **Dy**ekhree |
+| /ɾ/ or /ɾʲ/ | Single tongue-tap, not rolled | — | Caer, Nemetha**r**i |
