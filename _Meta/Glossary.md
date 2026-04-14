@@ -18,7 +18,7 @@ Pronunciation notes: IPA is given in slashes. The "approx" column gives the clos
 
 **The Accord** — The scientific coalition of six species.
 
-**Overseers** — No pronunciation issue. The six enslaved representatives.
+**Overseers** — The six enslaved representatives.
 
 ## Cosmic Entities
 
