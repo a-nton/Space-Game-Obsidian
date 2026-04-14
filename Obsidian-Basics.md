@@ -60,7 +60,7 @@
 > quoted text
 ```
 
-**Code** — inline with single backticks, blocks with triple. The gray boxes :
+**Code** — inline with single backticks, blocks with triple. The gray boxes you see in this section are also formatted thus:
 
 ````
 Inline: `some code`
