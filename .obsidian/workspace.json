@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/Enemies/Elderwood-Highlands/Blathri Mor (Petal Giant).md",
+                "file": "Design/Enemies/Verdant-Expanse/Ard Fia na Fearach (Tree Giant).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blathri Mor (Petal Giant)"
+              "title": "Ard Fia na Fearach (Tree Giant)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dullahan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,8 +185,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "98745e5b2e74b18a",
+  "active": "18ac4fbc9a77b3ae",
   "lastOpenFiles": [
+    "Design/Enemies/Verdant-Expanse/Dealgshiul (Thorn Ambusher).md",
+    "Design/Enemies/Verdant-Expanse/Fiafhreine (Moss Deer).md",
+    "Design/Enemies/Enemy-Index.md",
+    "Design/Enemies/Elderwood-Highlands/Blathri Mor (Petal Giant).md",
     "Design/Enemies/Faeblight-Marsh/Oillipheist Faebhrigh (Great Serpent).md",
     "World/Elven-Planet/Biomes/Caer-Bile.md",
     "World/Elven-Planet/Biomes/Elderwood-Highlands.md",
@@ -209,11 +214,7 @@
     "Lore/Civilizations/Nemethari/Nemethari-Culture.md",
     "Dev/Recruitment-Policies.md",
     "Dev/Project-Goals.md",
-    "_Meta/Conventions.md",
-    "Dev/Meetings/2026-03-22.md",
     "Dev/Meetings",
-    "Design/Enemies/Verdant-Expanse/Fiafhreine (Moss Deer).md",
-    "Design/Enemies/Verdant-Expanse/Ard Fia na Fearach (Tree Giant).md",
     "Design/Enemies/Verdant-Expanse",
     "Design/Enemies/The-Grove",
     "Design/Enemies/Knotroot-Canopy",
