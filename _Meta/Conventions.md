@@ -47,13 +47,13 @@ Templates live in `_Meta/Templates/`. Use them when creating new enemies, NPCs, 
 
 Everyone writes in their areas. Use `Drafts/[your-name]/` for rough work. Move finished content into the proper folder.
 
-| Person | Primary areas |
+| Person          | Primary areas |
 |--------|--------------|
-| Toni | Sound design, atmosphere, lore coherence, dialogue editing, naming |
+| Toni            | Sound design, atmosphere, lore coherence, dialogue editing, naming |
 | Adrian (Banshi) | Lore, dialogue, atmosphere, art style, Godot |
-| Kate | Lore, dialogue, voice over, sounds, art |
-| Jurato | Animations, art, mechanics, coding/Godot |
-| Borko | Coding, art for implementation needs |
+| Kate            | Lore, dialogue, voice over, sounds, art |
+| Jureto          | Animations, art, mechanics, coding/Godot |
+| Borko           | Coding, art for implementation needs |
 
 ## Git sync
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Meetings/2026-03-22.md",
+                "file": "Dev/Project-Goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-22"
+              "title": "Project-Goals"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Meetings/2026-03-22.md",
+                "file": "Dev/Project-Goals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-22"
+              "title": "Outline of Project-Goals"
             }
           }
         ],
@@ -199,15 +199,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "4a35461e0eb3cafc",
+  "active": "affaab665b29d822",
   "lastOpenFiles": [
+    "_Meta/Conventions.md",
+    "Dev/Meetings/2026-03-22.md",
     "Lore/Cosmology/The-Overseers.md",
     "Lore/Cosmology/The-Recursive-Observer-Stack.md",
     "Lore/Cosmology/Aeonic-Drive.md",
     "Lore/Civilizations/Nemethari/Nemethari-Culture.md",
     "Lore/Civilizations/Athnemeton/Athnemeton-Overview.md",
     "Dev/Project-Goals.md",
-    "Dev/Meetings/2026-03-22.md",
     "Design/Enemies/Verdant-Expanse/Fiafhreine (Moss Deer).md",
     "Design/Enemies/Verdant-Expanse/Dealgshiul (Thorn Ambusher).md",
     "Design/Enemies/Verdant-Expanse/Ard Fia na Fearach (Tree Giant).md",
@@ -226,7 +227,6 @@
     "Elderwood Highlands.md",
     "World/Elven-Planet/Biomes/Caer-Bile.md",
     "World/Elven-Planet/Biomes/Verdant-Expanse.md",
-    "The Grove.md",
     "World/Elven-Planet/Map/Plan_of_the_planet.png",
     "Dev/Meetings",
     "Design/Enemies/Verdant-Expanse",
