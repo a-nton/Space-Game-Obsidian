@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/NPCs/Verdant-Expanse/Mathgamain.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathgamain"
+              "title": "README"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/NPCs/Verdant-Expanse/Mathgamain.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mathgamain"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/NPCs/Verdant-Expanse/Mathgamain.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mathgamain"
+              "title": "Outline of README"
             }
           },
           {
@@ -208,9 +208,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "7d57884ede946d4a",
+  "active": "4a35461e0eb3cafc",
   "lastOpenFiles": [
+    "Obsidian-Basics.md",
+    "_Meta/Templates/Character.md",
+    "_Meta/Templates/Enemy.md",
+    "_Meta/Templates/NPC.md",
+    "_Meta/Conventions.md",
+    "Design/Enemies/Caer-Bile/Sciathan Darach (Blossom Eagle).md",
+    "Lore/Cosmology/The-Recursive-Observer-Stack.md",
+    "Narrative/Characters/The-High-Priest.md",
     "Narrative/NPCs/Verdant-Expanse/Aine.md",
+    "Narrative/NPCs/Verdant-Expanse/Tuathal.md",
+    "Narrative/NPCs/Verdant-Expanse/Mathgamain.md",
     "World/Elven-Planet/Map/Spatial-Layout.md",
     "README.md",
     "The Grove.md",
@@ -219,24 +229,14 @@
     "Dev/Project-Goals.md",
     "Dev/Open-Questions.md",
     "Design/Enemies/Elderwood-Highlands/Blathri Mor (Petal Giant).md",
-    "Design/Enemies/Caer-Bile/Sciathan Darach (Blossom Eagle).md",
     "_Meta/Templates/Biome.md",
-    "_Meta/Conventions.md",
     "Dev/Meetings/2026-03-22.md",
     "Lore/Cosmology/The-Overseers.md",
-    "Lore/Cosmology/The-Recursive-Observer-Stack.md",
     "Lore/Cosmology/Aeonic-Drive.md",
     "Lore/Civilizations/Nemethari/Nemethari-Culture.md",
     "Lore/Civilizations/Athnemeton/Athnemeton-Overview.md",
     "Design/Enemies/Verdant-Expanse/Fiafhreine (Moss Deer).md",
     "Design/Enemies/Verdant-Expanse/Dealgshiul (Thorn Ambusher).md",
-    "Design/Enemies/Verdant-Expanse/Ard Fia na Fearach (Tree Giant).md",
-    "Design/Enemies/Faeblight-Marsh/Oillipheist Faebhrigh (Great Serpent).md",
-    "_Meta/Templates/Enemy.md",
-    "_Meta/Templates/Character.md",
-    "_Meta/Templates/NPC.md",
-    "_Meta/Glossary.md",
-    "World/Elven-Planet/Biomes/Elderwood-Highlands.md",
     "Dev/Meetings",
     "Design/Enemies/Verdant-Expanse",
     "Design/Enemies/The-Grove",
