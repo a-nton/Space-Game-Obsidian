@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Recruitment-Policies.md",
+                "file": "Lore/Civilizations/Athnemeton/Athnemeton-Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recruitment-Policies"
+              "title": "Athnemeton-Overview"
             }
           }
         ]
@@ -186,13 +186,13 @@
   },
   "active": "98745e5b2e74b18a",
   "lastOpenFiles": [
+    "Dev/Recruitment-Policies.md",
     "Dev/Project-Goals.md",
     "_Meta/Conventions.md",
     "_Meta/Glossary.md",
     "Dev/Open-Questions.md",
     "Dev/Meetings/2026-03-22.md",
     "Dev/Meetings",
-    "Dev/Recruitment-Policies.md",
     "Design/Enemies/Verdant-Expanse/Fiafhreine (Moss Deer).md",
     "Design/Enemies/Verdant-Expanse/Ard Fia na Fearach (Tree Giant).md",
     "Design/Enemies/Verdant-Expanse/Dealgshiul (Thorn Ambusher).md",
