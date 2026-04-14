@@ -36,6 +36,7 @@ git clone https://github.com/a-nton/Space-Game-Obsidian
 
 3. A browser window or popup will ask you to sign in to GitHub. Do so.
 4. The vault folder now exists at `C:\Users\YourName\Documents\game-lore-vault`
+```
 
 ### macOS
 
