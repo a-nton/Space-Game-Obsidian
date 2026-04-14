@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/Enemies/Caer-Bile/Sciathan Darach (Blossom Eagle).md",
+                "file": "Dev/Recruitment-Policies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sciathan Darach (Blossom Eagle)"
+              "title": "Recruitment-Policies"
             }
           }
         ]
@@ -186,6 +186,11 @@
   },
   "active": "98745e5b2e74b18a",
   "lastOpenFiles": [
+    "Dev/Open-Questions.md",
+    "Elderwood Highlands.md",
+    "Design/Enemies/Elderwood-Highlands/Blathri Mor (Petal Giant).md",
+    "Design/Enemies/Caer-Bile/Sciathan Darach (Blossom Eagle).md",
+    "Design/Enemies/Faeblight-Marsh/Oillipheist Faebhrigh (Great Serpent).md",
     "_Meta/Glossary.md",
     "_Meta/Conventions.md",
     "_Meta/Templates/Enemy.md",
@@ -197,9 +202,6 @@
     "Design/Enemies/Verdant-Expanse/Fiafhreine (Moss Deer).md",
     "Design/Enemies/Verdant-Expanse/Dealgshiul (Thorn Ambusher).md",
     "Design/Enemies/Verdant-Expanse/Ard Fia na Fearach (Tree Giant).md",
-    "Design/Enemies/Faeblight-Marsh/Oillipheist Faebhrigh (Great Serpent).md",
-    "Design/Enemies/Elderwood-Highlands/Blathri Mor (Petal Giant).md",
-    "Design/Enemies/Caer-Bile/Sciathan Darach (Blossom Eagle).md",
     "Design/Enemies/Verdant-Expanse",
     "Design/Enemies/The-Grove",
     "Design/Enemies/Knotroot-Canopy",
@@ -220,8 +222,6 @@
     "World/Elven-Planet/Biomes/Caer-Bile.md",
     "World/Elven-Planet/Map",
     "World/Elven-Planet/Biomes",
-    "Narrative/Characters/The-Scholar.md",
-    "Narrative/Characters/The-Rebel.md",
-    "Narrative/Characters/The-High-Priest.md"
+    "Narrative/Characters/The-Scholar.md"
   ]
 }
