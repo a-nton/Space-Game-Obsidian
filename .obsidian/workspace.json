@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Meta/Glossary.md",
+                "file": "Design/Enemies/Caer-Bile/Sciathan Darach (Blossom Eagle).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossary"
+              "title": "Sciathan Darach (Blossom Eagle)"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "98745e5b2e74b18a",
   "lastOpenFiles": [
+    "_Meta/Glossary.md",
     "_Meta/Conventions.md",
     "_Meta/Templates/Enemy.md",
     "_Meta/Templates/Character.md",
@@ -219,7 +220,6 @@
     "World/Elven-Planet/Biomes/Caer-Bile.md",
     "World/Elven-Planet/Map",
     "World/Elven-Planet/Biomes",
-    "_Meta/Glossary.md",
     "Narrative/Characters/The-Scholar.md",
     "Narrative/Characters/The-Rebel.md",
     "Narrative/Characters/The-High-Priest.md"
