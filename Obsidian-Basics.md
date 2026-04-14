@@ -2,7 +2,7 @@
 
 *Markdown is inline annotation. The formatting lives inside the text as characters, and when rendered, those characters disappear and their effect takes their place. You're writing the instructions for how the text should look directly into the text itself.
 
-Formatting is invisible until you click on something to edit it*
+*Formatting is invisible until you click on something to edit it*
 
 **Headings** — number of `#` sets the level:
 
