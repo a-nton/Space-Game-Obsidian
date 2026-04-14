@@ -25,14 +25,12 @@
             "id": "4a35461e0eb3cafc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Dev/Project-Goals.md",
-                "mode": "source",
-                "source": false
+                "file": "World/Elven-Planet/Map/Plan_of_the_planet.png"
               },
-              "icon": "lucide-file",
-              "title": "Project-Goals"
+              "icon": "lucide-image",
+              "title": "Plan_of_the_planet"
             }
           }
         ],
@@ -171,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Project-Goals.md",
+                "file": "World/Elven-Planet/Map/Plan_of_the_planet.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project-Goals"
+              "title": "Outline of Plan_of_the_planet"
             }
           },
           {
@@ -211,13 +209,15 @@
   },
   "active": "4a35461e0eb3cafc",
   "lastOpenFiles": [
+    "README.md",
+    "World/Elven-Planet/Map/Plan_of_the_planet.png",
+    "Dev/Recruitment-Policies.md",
+    "Dev/Project-Goals.md",
     "Dev/Open-Questions.md",
     "Design/Enemies/Elderwood-Highlands/Blathri Mor (Petal Giant).md",
     "Design/Enemies/Caer-Bile/Sciathan Darach (Blossom Eagle).md",
-    "Dev/Project-Goals.md",
     "_Meta/Templates/Biome.md",
     "Narrative/NPCs/Verdant-Expanse/Aine.md",
-    "Dev/Recruitment-Policies.md",
     "_Meta/Conventions.md",
     "Dev/Meetings/2026-03-22.md",
     "Lore/Cosmology/The-Overseers.md",
@@ -236,8 +236,6 @@
     "World/Elven-Planet/Biomes/Elderwood-Highlands.md",
     "Verdant Expanse.md",
     "Obsidian-Basics.md",
-    "Knotroot Canopy.md",
-    "World/Elven-Planet/Map/Plan_of_the_planet.png",
     "Dev/Meetings",
     "Design/Enemies/Verdant-Expanse",
     "Design/Enemies/The-Grove",
