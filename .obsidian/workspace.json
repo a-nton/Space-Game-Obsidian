@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/Enemies/Verdant-Expanse/Dealgshiul (Thorn Ambusher).md",
+                "file": "_Meta/Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dealgshiul (Thorn Ambusher)"
+              "title": "Glossary"
             }
           }
         ]
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/Enemies/Verdant-Expanse/Dealgshiul (Thorn Ambusher).md",
+                "file": "_Meta/Glossary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dealgshiul (Thorn Ambusher)"
+              "title": "Outline of Glossary"
             }
           }
         ],
@@ -187,11 +187,11 @@
   },
   "active": "98745e5b2e74b18a",
   "lastOpenFiles": [
+    "Design/Enemies/Verdant-Expanse/Fiafhreine (Moss Deer).md",
+    "Design/Enemies/Verdant-Expanse/Dealgshiul (Thorn Ambusher).md",
     "Design/Enemies/Verdant-Expanse/Ard Fia na Fearach (Tree Giant).md",
     "_Meta/Glossary.md",
-    "Design/Enemies/Verdant-Expanse/Fiafhreine (Moss Deer).md",
     "Design/Enemies/Enemy-Index.md",
-    "Design/Enemies/Verdant-Expanse/Dealgshiul (Thorn Ambusher).md",
     "_Meta/Templates/Biome.md",
     "Narrative/Characters/The-Scholar.md",
     "Narrative/NPCs/Verdant-Expanse/Aine.md",
