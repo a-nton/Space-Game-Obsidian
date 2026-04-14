@@ -5,29 +5,7 @@ After setup, you never need to touch a terminal again.
 
 ---
 
-## What this does
-
-Everyone on the team gets a copy of the shared vault on their machine. The **obsidian-git** plugin automatically pulls changes when you open Obsidian, commits your edits every few minutes, and pushes them when you're done. Git handles merging. All version history is preserved.
-
----
-
-## Part 1: One person creates the shared repo
-
-Only **one person** does this (ideally the vault owner).
-
-1. Go to [github.com](https://github.com) and sign in (or create an account)
-2. Click the **+** in the top right → **New repository**
-3. Name it something like `game-lore-vault`
-4. Set it to **Private**
-5. Check **Add a README file**
-6. Click **Create repository**
-7. Go to **Settings → Collaborators → Add people** and invite each teammate by GitHub username or email
-
-Each teammate accepts the invite via email or GitHub notifications.
-
----
-
-## Part 2: Install Git (one-time)
+## Part 1: Install Git (one-time)
 
 ### Windows
 
@@ -43,19 +21,18 @@ Each teammate accepts the invite via email or GitHub notifications.
 
 ---
 
-## Part 3: Clone the repo (one-time, requires terminal)
+## Part 2: Clone the repo (one-time, requires terminal)
 
 This is the only time you touch a terminal.
 
 ### Windows
 
 1. Open **Git Bash** (it was installed with Git — search for it in Start Menu)
-2. Type the following, replacing the URL with your repo:
+2. Type the following, replacing the Documents directory with another if desired:
 
 ```
 cd ~/Documents
-git clone https://github.com/YOUR-USERNAME/game-lore-vault.git
-```
+git clone https://github.com/a-nton/Space-Game-Obsidian
 
 3. A browser window or popup will ask you to sign in to GitHub. Do so.
 4. The vault folder now exists at `C:\Users\YourName\Documents\game-lore-vault`
@@ -67,7 +44,7 @@ git clone https://github.com/YOUR-USERNAME/game-lore-vault.git
 
 ```
 cd ~/Documents
-git clone https://github.com/YOUR-USERNAME/game-lore-vault.git
+git clone https://github.com/a-nton/Space-Game-Obsidian
 ```
 
 3. If prompted for credentials, a browser window will open for GitHub sign-in.
@@ -78,7 +55,7 @@ git clone https://github.com/YOUR-USERNAME/game-lore-vault.git
 
 ---
 
-## Part 4: Set up credentials (so Git remembers you)
+## Part 3: Set up credentials (so Git remembers you)
 
 ### Windows
 
@@ -111,7 +88,7 @@ If you have issues, you can use a **Personal Access Token** instead:
 
 ---
 
-## Part 5: Open the vault in Obsidian
+## Part 4: Open the vault in Obsidian
 
 1. Open Obsidian
 2. Click **Open folder as vault**
@@ -120,7 +97,7 @@ If you have issues, you can use a **Personal Access Token** instead:
 
 ---
 
-## Part 6: Install the obsidian-git plugin
+## Part 5: Install the obsidian-git plugin
 
 1. In Obsidian, go to **Settings → Community plugins**
 2. Turn off **Restricted mode** if prompted
@@ -130,7 +107,7 @@ If you have issues, you can use a **Personal Access Token** instead:
 
 ---
 
-## Part 7: Configure auto-sync
+## Part 6: Configure auto-sync
 
 Go to **Settings → Community plugins → Git → Options** and set:
 
