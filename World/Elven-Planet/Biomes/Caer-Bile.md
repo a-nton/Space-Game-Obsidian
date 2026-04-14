@@ -6,7 +6,7 @@
 **Connects to:** [[Verdant Expanse]], [[The Grove]], [[Knotroot Canopy]], [[Elderwood Highlands]]
 **One-way shortcut from:** [[Faeblight Marsh]]
 **One-way shortcut to:** From [[Elderwood Highlands]] (after obtaining ship material)
-**Pronunciation:** KARE bee-LAY — from *Caer* (fortress) + *Bilé* (sacred tree / god of death)
+**Pronunciation:** /kaɪɾʲ ˈbʲiːlʲeː/ — approx: KIRE BEE-lyeh. From *Caer* (fortress) + *Bilé* (sacred tree / god of death)
 **Progression type:** Hub, vertical
 
 ---

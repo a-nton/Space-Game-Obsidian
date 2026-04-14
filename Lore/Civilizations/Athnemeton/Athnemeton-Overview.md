@@ -2,7 +2,7 @@
 
 #canon
 
-**Pronunciation:** ath-NEM-eh-ton — from *ath-* (again, re-) + *nemeton* (sacred grove). "The grove remade."
+**Pronunciation:** /aθˈnɛmɛtɔn/ — approx: ath-NEM-eh-ton, with "th" as in "thin." From *ath-* (again, re-) + *nemeton* (sacred grove). "The grove remade."
 
 ---
 

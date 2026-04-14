@@ -6,9 +6,10 @@ All unresolved design and lore questions in one place. Each links to the relevan
 
 ## Terminology
 
-1. **[[Athnemeton#Factions|Cethrai / Dechrai]] faction names** — confirm or choose from alternatives listed in the consolidated lore (Nemthirai/Síthirai, Crannai/Lomrai).
-2. **[[Nemethari Culture|Nemethari]] species name** — confirm current or choose from variants (Nemethai, Nemethren).
-3. **[[Sreng|Parasite]] species name** — Sreng is proposed. Alternatively, keep unnamed and let the ship log assign a clinical designation.
+1. **[[Aeonic Drive]] name** — provisional. Alternatives: the Unbound Engine, the Recursive Core. Decide before locking terminology.
+2. **[[Athnemeton#Factions|Cethrai / Dechrai]] faction names** — confirm or choose from alternatives listed in the consolidated lore (Nemthirai/Síthirai, Crannai/Lomrai).
+3. **[[Nemethari Culture|Nemethari]] species name** — confirm current or choose from variants (Nemethai, Nemethren).
+4. **[[Sreng|Parasite]] species name** — Sreng is proposed. Alternatively, keep unnamed and let the ship log assign a clinical designation.
 
 ## Worldbuilding
 

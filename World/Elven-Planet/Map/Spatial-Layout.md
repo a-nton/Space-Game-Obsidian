@@ -8,7 +8,7 @@ See also: `Map/Plan_of_the_planet.png` for the hand-drawn reference.
 
 Hub-and-spoke design centred on [[Caer Bile]] (the world tree). Progression mixes vertical and horizontal traversal. Several one-way shortcuts flow back to the hub. This is a Soulslike/Metroidvania hybrid layout.
 
-## Spatial Relationships (Potentially faulty, check PNG)
+## Spatial Relationships
 
 ```
                     ┌─────────────────────────┐
