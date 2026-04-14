@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Meta/Templates/Biome.md",
+                "file": "_Meta/Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biome"
+              "title": "Glossary"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Meta/Templates/Biome.md",
+                "file": "_Meta/Glossary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Biome"
+              "title": "Outline of Glossary"
             }
           }
         ],
@@ -186,6 +186,7 @@
   },
   "active": "98745e5b2e74b18a",
   "lastOpenFiles": [
+    "_Meta/Templates/Biome.md",
     "Narrative/Characters/The-Scholar.md",
     "Narrative/NPCs/Verdant-Expanse/Aine.md",
     "World/Elven-Planet/Biomes/Faeblight-Marsh.md",
@@ -212,7 +213,6 @@
     "World/Elven-Planet/Biomes/Elderwood-Highlands.md",
     "World/Elven-Planet/Biomes/Knotroot-Canopy.md",
     "World/Elven-Planet/Biomes/The-Grove.md",
-    "Dev/Open-Questions.md",
     "Dev/Meetings",
     "Design/Enemies/Verdant-Expanse",
     "Design/Enemies/The-Grove",
