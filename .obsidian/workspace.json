@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Elven-Planet/Map/Spatial-Layout.md",
+                "file": "Narrative/NPCs/Verdant-Expanse/Mathgamain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spatial-Layout"
+              "title": "Mathgamain"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Narrative/NPCs/Verdant-Expanse/Mathgamain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Mathgamain"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Elven-Planet/Map/Spatial-Layout.md",
+                "file": "Narrative/NPCs/Verdant-Expanse/Mathgamain.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spatial-Layout"
+              "title": "Outline of Mathgamain"
             }
           },
           {
@@ -190,8 +190,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,8 +208,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4a35461e0eb3cafc",
+  "active": "7d57884ede946d4a",
   "lastOpenFiles": [
+    "Narrative/NPCs/Verdant-Expanse/Aine.md",
+    "World/Elven-Planet/Map/Spatial-Layout.md",
     "README.md",
     "The Grove.md",
     "World/Elven-Planet/Map/Plan_of_the_planet.png",
@@ -220,7 +221,6 @@
     "Design/Enemies/Elderwood-Highlands/Blathri Mor (Petal Giant).md",
     "Design/Enemies/Caer-Bile/Sciathan Darach (Blossom Eagle).md",
     "_Meta/Templates/Biome.md",
-    "Narrative/NPCs/Verdant-Expanse/Aine.md",
     "_Meta/Conventions.md",
     "Dev/Meetings/2026-03-22.md",
     "Lore/Cosmology/The-Overseers.md",
@@ -237,7 +237,6 @@
     "_Meta/Templates/NPC.md",
     "_Meta/Glossary.md",
     "World/Elven-Planet/Biomes/Elderwood-Highlands.md",
-    "Verdant Expanse.md",
     "Dev/Meetings",
     "Design/Enemies/Verdant-Expanse",
     "Design/Enemies/The-Grove",
