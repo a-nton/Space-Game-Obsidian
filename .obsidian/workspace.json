@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Cosmology/Aeonic-Drive.md",
+                "file": "Obsidian-Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aeonic-Drive"
+              "title": "Obsidian-Basics"
             }
           }
         ]
@@ -184,14 +184,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "98745e5b2e74b18a",
+  "active": "affaab665b29d822",
   "lastOpenFiles": [
+    "Lore/Cosmology/Aeonic-Drive.md",
+    "Obsidian-Basics.md",
     "Lore/Cosmology/The-Vessel.md",
     "Lore/Cosmology/The-Recursive-Observer-Stack.md",
     "Lore/Cosmology/The-Overseers.md",
     "Lore/Cosmology/The-Beholder.md",
     "Lore/Cosmology/The-Accord.md",
-    "Lore/Cosmology/Aeonic-Drive.md",
     "Lore/Cosmology/Nemethari-Elder.md",
     "Design/Enemies/Verdant-Expanse/Ard Fia na Fearach (Tree Giant).md",
     "Design/Enemies/Verdant-Expanse/Dealgshiul (Thorn Ambusher).md",
@@ -212,7 +213,6 @@
     "Dev/Open-Questions.md",
     "_Meta/Glossary.md",
     "Lore/Civilizations/Athnemeton/Athnemeton-Overview.md",
-    "Lore/Civilizations/Athnemeton/Energy-Cycle-and-Soul-Gems.md",
     "Dev/Meetings",
     "Design/Enemies/Verdant-Expanse",
     "Design/Enemies/The-Grove",
