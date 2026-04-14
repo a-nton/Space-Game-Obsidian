@@ -2,5 +2,5 @@
 	Type `[[` and Obsidian will autocomplete from existing file names. So `[[The Beholder` will pop up a suggestion for `The-Beholder.md`. You can also link to a specific heading within a file with `[[The-Beholder#Design Notes]]`, and you can rename how the link displays with `[[The-Beholder|the entity in the void]]`.
 2. How to add tags?
 	Just type `#tagname` anywhere in a note. No setup needed. The tags I defined in the Conventions file (`#unresolved`, `#placeholder`, `#wip`, `#canon`) work the moment you type them. You can search all tags via the tag pane in the right sidebar, or use the search bar with `tag:#unresolved` to find everything that needs attention.
-3. Is it possible to view a table of contents of individual files also on the side?
-	1. Yes. Install the core plugin **Outline**. Go to Settings → Core plugins → toggle on **Outline**. It appears in the right sidebar and shows a clickable table of contents generated from your markdown headings (`##`, `###`, etc.) for whatever file you currently have open.
+3. How to view a table of contents of individual files in the sidebar?
+	1. Install the core plugin **Outline**. Go to Settings → Core plugins → toggle on **Outline**. It appears in the right sidebar and shows a clickable table of contents generated from your markdown headings (`##`, `###`, etc.) for whatever file you currently have open.
