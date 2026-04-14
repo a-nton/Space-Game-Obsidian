@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verdant Expanse.md",
+                "file": "_Meta/Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verdant Expanse"
+              "title": "Glossary"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verdant Expanse.md",
+                "file": "_Meta/Glossary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Verdant Expanse"
+              "title": "Outline of Glossary"
             }
           }
         ],
@@ -199,16 +199,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "affaab665b29d822",
+  "active": "4a35461e0eb3cafc",
   "lastOpenFiles": [
-    "World/Elven-Planet/Biomes/Verdant-Expanse.md",
-    "World/Elven-Planet/Biomes/Caer-Bile.md",
-    "Knotroot Canopy.md",
-    "Verdant Expanse.md",
-    "The Grove.md",
-    "Elderwood Highlands.md",
-    "Obsidian-Basics.md",
     "World/Elven-Planet/Biomes/Elderwood-Highlands.md",
+    "Verdant Expanse.md",
+    "Obsidian-Basics.md",
+    "Knotroot Canopy.md",
+    "Elderwood Highlands.md",
+    "World/Elven-Planet/Biomes/Caer-Bile.md",
+    "World/Elven-Planet/Biomes/Verdant-Expanse.md",
+    "The Grove.md",
     "README.md",
     "_Meta/Glossary.md",
     "Design/Enemies/Verdant-Expanse/Fiafhreine (Moss Deer).md",
