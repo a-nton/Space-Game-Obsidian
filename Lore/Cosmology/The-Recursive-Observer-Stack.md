@@ -86,34 +86,34 @@ If the game executes this correctly, the player finishes the game and sits with 
 
 ## Reference Points
 
-These are studied for what can be stolen mechanically.
+These are studied for what can be borrowed mechanically.
 
 ### Hotline Miami — The Masks
 
 Three masked figures address the player with questions like "do you like hurting other people?" The framing leaves open whether they are talking to the character or to the person holding the controller. Richard has the quality of something that exists outside the game's fiction and comments on the violence the player chooses to engage in.
 
-**What to steal:** The questions are effective because they are asked casually, without dramatic weight. They appear between levels, in moments of transition, when the player's guard is down. The game does not frame them as important. The player decides they are important. Ambiguity of address (character or player?) is maintained by never resolving it.
+**What fits:** The questions are effective because they are asked casually, without dramatic weight. They appear between levels, in moments of transition, when the player's guard is down. The game does not frame them as important. The player decides they are important. Ambiguity of address (character or player?) is maintained by never resolving it.
 
 ### Vampire Survivors — The White Hand and the Directer
 
 The White Hand moves relative to the player's screen, not the character's position on the map. It exists in screen space, above health bars and timers. The Directer later pulls back the frame of the game world to reveal that all stages exist inside a larger space. After defeating it, the game itself collapses and the player rebuilds it starting from the health bar upward.
 
-**What to steal:** An entity that operates in a different spatial layer from the game world (screen space vs. map space) is immediately unsettling because the player's spatial model of the game breaks. The Beholder should similarly feel like it exists in a layer the game's normal rules don't reach. The Directer's frame-pull is the most literal version of revealing an observer stack — everything the player thought was "the game" turns out to be contained inside something else.
+**What fits:** An entity that operates in a different spatial layer from the game world (screen space vs. map space) is immediately unsettling because the player's spatial model of the game breaks. The Beholder should similarly feel like it exists in a layer the game's normal rules don't reach. The Directer's frame-pull is the most literal version of revealing an observer stack — everything the player thought was "the game" turns out to be contained inside something else.
 
 ### Half-Life — The G-Man
 
 Appears where he should not be. Watches from impossible vantage points. Speaks with a cadence that feels like language used by something that does not natively think in language. The protagonist's name is Freeman, and the G-Man gives the illusion of free choice within what might be a linear corridor.
 
-**What to steal:** Presence through impossibility of position. The G-Man is unsettling because he is in places the game's spatial logic should not allow. If the Beholder's visual presence (the region of wrong stars) occasionally appears in a location where the sky should not be visible — a cave, an interior — for a single frame or a single camera angle, and then is gone, the player will doubt what they saw. That doubt is productive.
+**What fits:** Presence through impossibility of position. The G-Man is unsettling because he is in places the game's spatial logic should not allow. If the Beholder's visual presence (the region of wrong stars) occasionally appears in a location where the sky should not be visible — a cave, an interior — for a single frame or a single camera angle, and then is gone, the player will doubt what they saw. That doubt is productive.
 
 ### The Truman Show — Christof and the Audience
 
 Christof speaks from an artificial moon and loves his creation the way a god loves the world he built. The audience within the film watches passively, weeping and cheering on cue — a congregation managed by their shepherd. The viewer in the cinema is supposed to catch themselves doing what the in-film audience is doing: consuming a person's suffering as narrative. The film builds a recursive stack of observers and lets the viewer notice they are one of them and that the stack probably does not end with them.
 
-**What to steal:** The in-film audience is the key device. They are a mirror held up to the real audience. If the game contains any moment where NPCs are watching something with the same passive absorption that the player has been displaying — watching a spectacle, watching suffering, watching a story unfold — and the composition frames the player watching them watching, the stack becomes visible. The player sees themselves in the NPCs. The question of who else might be seeing the player in the same way follows naturally.
+**What fits:** The in-film audience is the key device. They are a mirror held up to the real audience. If the game contains any moment where NPCs are watching something with the same passive absorption that the player has been displaying — watching a spectacle, watching suffering, watching a story unfold — and the composition frames the player watching them watching, the stack becomes visible. The player sees themselves in the NPCs. The question of who else might be seeing the player in the same way follows naturally.
 
 ### Hades 2 — Chronos and the Necessary Prison
 
-Chronos needs and has created the suffering timeline so that the joy timeline means something. The defeat of Chronos is part of Chronos's plan because the defeat is where the feeling lives. The prison is built perfectly so that the escape is real and transcendent. A god who wants his creation to experience the full depth of liberation has to first engineer the full depth of captivity.
+Chronos (in an unco) needs and has created the suffering timeline so that the joy timeline means something. The defeat of Chronos is part of Chronos's plan because the defeat is where the feeling lives. The prison is built perfectly so that the escape is real and transcendent. A god who wants his creation to experience the full depth of liberation has to first engineer the full depth of captivity.
 
-**What to steal:** The idea that the antagonist's defeat is part of the antagonist's design. If the Beholder's feeding mechanism requires that civilisations develop enough to be worth harvesting, then the Beholder needs the player to succeed. The player rebuilding the Aeonic Drive is exactly what the Beholder has been waiting for — a concentration of intelligence bright enough to be worth consuming. The player's victory is the Beholder's meal. This should dawn on the player slowly, through environmental evidence and ship log entries, and it should never be fully confirmed or denied.
+**What fits:** The idea that the antagonist's defeat is part of the antagonist's design. If the Beholder's feeding mechanism requires that civilisations develop enough to be worth harvesting, then the Beholder needs the player to succeed. The player rebuilding the Aeonic Drive is exactly what the Beholder has been waiting for — a concentration of intelligence bright enough to be worth consuming. The player's victory is the Beholder's meal. This should dawn on the player slowly, through environmental evidence and ship log entries, and it should never be fully confirmed or denied.
