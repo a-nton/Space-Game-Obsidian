@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Narrative/Characters/The-Elder-of-the-Dechrai.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "The-Elder-of-the-Dechrai"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "98745e5b2e74b18a",
   "lastOpenFiles": [
+    "README.md",
     "Design/Enemies/Verdant-Expanse/Fiafhreine (Moss Deer).md",
     "Design/Enemies/Verdant-Expanse/Dealgshiul (Thorn Ambusher).md",
     "Design/Enemies/Verdant-Expanse/Ard Fia na Fearach (Tree Giant).md",
@@ -221,7 +222,6 @@
     "Narrative/Characters/The-Scholar.md",
     "Narrative/Characters/The-Rebel.md",
     "Narrative/Characters/The-High-Priest.md",
-    "Narrative/Characters/The-Elder-of-the-Dechrai.md",
-    "Narrative/NPCs/Verdant-Expanse/Mathgamain.md"
+    "Narrative/Characters/The-Elder-of-the-Dechrai.md"
   ]
 }
