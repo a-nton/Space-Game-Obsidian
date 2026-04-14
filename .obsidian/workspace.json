@@ -25,12 +25,14 @@
             "id": "4a35461e0eb3cafc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "World/Elven-Planet/Map/Plan_of_the_planet.png"
+                "file": "World/Elven-Planet/Map/Spatial-Layout.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Plan_of_the_planet"
+              "icon": "lucide-file",
+              "title": "Spatial-Layout"
             }
           }
         ],
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Elven-Planet/Map/Plan_of_the_planet.png",
+                "file": "World/Elven-Planet/Map/Spatial-Layout.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plan_of_the_planet"
+              "title": "Outline of Spatial-Layout"
             }
           },
           {
@@ -210,6 +212,7 @@
   "active": "4a35461e0eb3cafc",
   "lastOpenFiles": [
     "README.md",
+    "The Grove.md",
     "World/Elven-Planet/Map/Plan_of_the_planet.png",
     "Dev/Recruitment-Policies.md",
     "Dev/Project-Goals.md",
@@ -235,7 +238,6 @@
     "_Meta/Glossary.md",
     "World/Elven-Planet/Biomes/Elderwood-Highlands.md",
     "Verdant Expanse.md",
-    "Obsidian-Basics.md",
     "Dev/Meetings",
     "Design/Enemies/Verdant-Expanse",
     "Design/Enemies/The-Grove",
