@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Characters/The-Scholar.md",
+                "file": "_Meta/Templates/Biome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The-Scholar"
+              "title": "Biome"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Characters/The-Scholar.md",
+                "file": "_Meta/Templates/Biome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The-Scholar"
+              "title": "Outline of Biome"
             }
           }
         ],
@@ -186,6 +186,7 @@
   },
   "active": "98745e5b2e74b18a",
   "lastOpenFiles": [
+    "Narrative/Characters/The-Scholar.md",
     "Narrative/NPCs/Verdant-Expanse/Aine.md",
     "World/Elven-Planet/Biomes/Faeblight-Marsh.md",
     "World/Elven-Planet/Biomes/Verdant-Expanse.md",
@@ -212,7 +213,6 @@
     "World/Elven-Planet/Biomes/Knotroot-Canopy.md",
     "World/Elven-Planet/Biomes/The-Grove.md",
     "Dev/Open-Questions.md",
-    "_Meta/Glossary.md",
     "Dev/Meetings",
     "Design/Enemies/Verdant-Expanse",
     "Design/Enemies/The-Grove",
