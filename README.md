@@ -5,100 +5,184 @@ After setup, you never need to touch a terminal again.
 
 ---
 
-## Part 1: Install Git (one-time)
+## What this does
+
+Everyone on the team gets a copy of the shared vault on their machine. The **obsidian-git** plugin automatically pulls changes when you open Obsidian, and commits + pushes your edits on a timer. Git handles merging. All version history is preserved.
+
+---
+
+## Step 1: Accept the GitHub invite
+
+You should have received an email or GitHub notification inviting you as a collaborator on the vault repo. Accept it. If you don't have a GitHub account yet, create one at [github.com](https://github.com/).
+
+---
+
+## Step 2: Generate a GitHub Personal Access Token
+
+GitHub does not accept passwords for Git operations. You need a token instead.
+
+1. Go to [github.com](https://github.com/) → click your profile picture → **Settings**
+2. Scroll down the left sidebar → **Developer settings**
+3. **Personal access tokens → Fine-grained tokens → Generate new token**
+4. Give it a name like `obsidian-git`
+5. Set expiration to whatever you're comfortable with (90 days, or custom)
+6. Under **Repository access**, choose **Only select repositories** and pick the vault repo (or choose **All repositories** if you prefer)
+7. Under **Repository permissions**, set **Contents** to **Read and write**
+8. Click **Generate token**
+9. **Copy the token immediately.** You will not be able to see it again. Save it somewhere safe temporarily
+
+---
+
+## Step 3: Install Git and clone the repo
+
+Follow the section for your operating system.
+
+---
 
 ### Windows
+
+**Install Git:**
 
 1. Download Git from [git-scm.com/download/win](https://git-scm.com/download/win)
-2. Run the installer. **Accept all defaults** — just click Next through everything
+2. Run the installer — **accept all defaults**, just click Next through everything
 3. Restart your computer
 
-### macOS
+**Clone the repo:**
 
-1. Open **Terminal** (search for it in Spotlight)
-2. Type `git --version` and press Enter
-3. If Git isn't installed, macOS will prompt you to install Command Line Tools. Click **Install** and wait
-
----
-
-## Part 2: Clone the repo (one-time, requires terminal)
-
-This is the only time you touch a terminal.
-
-### Windows
-
-1. Open **Git Bash** (it was installed with Git — search for it in Start Menu)
-2. Type the following, replacing the Documents directory with another if desired:
+1. Open **Git Bash** (search for it in the Start Menu — it was installed with Git)
+2. Navigate to where you want the vault to live:
 
 ```
 cd ~/Documents
-git clone https://github.com/a-nton/Space-Game-Obsidian
-
-3. A browser window or popup will ask you to sign in to GitHub. Do so.
-4. The vault folder now exists at `C:\Users\YourName\Documents\game-lore-vault`
 ```
 
-### macOS
-
-1. Open **Terminal**
-2. Type:
+3. Clone the repo (you'll be given the exact URL):
 
 ```
-cd ~/Documents
-git clone https://github.com/a-nton/Space-Game-Obsidian
+git clone https://github.com/OWNER/REPO-NAME.git
 ```
 
-3. If prompted for credentials, a browser window will open for GitHub sign-in.
-4. The vault folder now exists at `/Users/YourName/Documents/game-lore-vault`
+4. When prompted for credentials:
+    
+    - **Username:** your GitHub username
+    - **Password:** paste your Personal Access Token (not your GitHub password)
+5. Git Credential Manager (included with Git for Windows) stores this automatically. You won't be asked again.
+    
 
-> **Note:** If you get a credential error on macOS, run:
-> `git credential-osxkeychain` and follow the prompts, or use the HTTPS personal access token method below.
+Your vault folder now exists at `C:\Users\YourName\Documents\REPO-NAME`.
 
----
+**If credentials aren't working:**
 
-## Part 3: Set up credentials (so Git remembers you)
-
-### Windows
-
-Git for Windows includes **Git Credential Manager** by default. After cloning, it should have already asked you to sign in via browser. If it worked, you're done — it remembers your login.
-
-If it didn't work, check that credential manager is active:
-
-```
-git config --global credential.helper
-```
-
-It should say `manager`. If blank, run:
+Make sure credential manager is active:
 
 ```
 git config --global credential.helper manager
 ```
 
-### macOS
+Then retry. A browser window or popup should appear for authentication.
 
-Git on macOS uses the system keychain. After cloning and authenticating, credentials are stored automatically.
+To clear a bad stored credential and start fresh:
 
-If you have issues, you can use a **Personal Access Token** instead:
+```
+git config --global --unset credential.helper
+git config --global credential.helper manager
+```
 
-1. On GitHub: **Settings → Developer settings → Personal access tokens → Tokens (classic)**
-2. Click **Generate new token (classic)**
-3. Give it a name like "obsidian-git"
-4. Check the **repo** scope
-5. Click **Generate token** and **copy the token immediately** (you won't see it again)
-6. When Git asks for your password, paste the token instead of your GitHub password
+Then retry — it will prompt you again.
 
 ---
 
-## Part 4: Open the vault in Obsidian
+### macOS
+
+**Install Git:**
+
+1. Open **Terminal** (Cmd+Space, type "Terminal")
+2. Type `git --version` and press Enter
+3. If Git isn't installed, macOS will prompt you to install Command Line Tools. Click **Install** and wait
+4. Run `git --version` again to confirm
+
+**Set up credential storage:**
+
+Before cloning, tell Git to store your token in the macOS keychain:
+
+```
+git config --global credential.helper osxkeychain
+```
+
+**Clone the repo:**
+
+1. In Terminal, navigate to where you want the vault:
+
+```
+cd ~/Documents
+```
+
+2. Clone the repo (you'll be given the exact URL):
+
+```
+git clone https://github.com/OWNER/REPO-NAME.git
+```
+
+3. When prompted:
+    
+    - **Username:** your GitHub username
+    - **Password:** paste your Personal Access Token (not your GitHub password)
+4. Your Mac may show a system dialog: **"git-credential-osxkeychain wants to use your confidential information stored in github.com"** — enter your **Mac login password** (the one you use to unlock your computer). This lets the keychain save the token so you aren't asked again.
+    
+
+Your vault folder now exists at `/Users/YourName/Documents/REPO-NAME`.
+
+**If credentials aren't working (403 error or authentication failure):**
+
+Your keychain may have a stale credential. Clear it by running:
+
+```
+git credential-osxkeychain erase
+```
+
+The terminal drops to a blank line waiting for input. Type the following two lines, pressing Enter after each:
+
+```
+host=github.com
+protocol=https
+```
+
+Then press Enter one more time on the empty line to submit. You'll get no confirmation message — this is normal. A `-1` error also just means nothing was stored, which is fine.
+
+Now retry your git operation (`git push` or `git pull`). It will ask for username and token again.
+
+If it still won't prompt you, force Git to ask fresh:
+
+```
+git -c credential.helper= push
+```
+
+**If you get a 403 even with a valid token:**
+
+Check the remote URL:
+
+```
+git remote -v
+```
+
+It should show the correct repo URL. If the username or repo name is wrong:
+
+```
+git remote set-url origin https://github.com/CORRECT-OWNER/CORRECT-REPO.git
+```
+
+---
+
+## Step 4: Open the vault in Obsidian
 
 1. Open Obsidian
 2. Click **Open folder as vault**
-3. Navigate to the cloned folder (`Documents/game-lore-vault`)
+3. Navigate to the cloned folder (e.g. `Documents/REPO-NAME`)
 4. Open it
 
 ---
 
-## Part 5: Install the obsidian-git plugin
+## Step 5: Install the Git plugin
 
 1. In Obsidian, go to **Settings → Community plugins**
 2. Turn off **Restricted mode** if prompted
@@ -108,63 +192,47 @@ If you have issues, you can use a **Personal Access Token** instead:
 
 ---
 
-## Part 6: Configure auto-sync
+## Step 6: Configure auto-sync
 
-Go to **Settings → Community plugins → Git → Options** and set:
+Go to **Settings → Community plugins → Git** (click the gear icon) and set:
 
-| Setting | Value | Why |
-|---------|-------|-----|
-| **Vault backup interval (minutes)** | `5` | Auto-commits and pushes every 5 min |
-| **Auto pull interval (minutes)** | `5` | Pulls teammate changes every 5 min |
-| **Pull updates on startup** | `ON` | Gets latest changes when you open Obsidian |
-| **Push on backup** | `ON` | Pushes after every auto-commit |
-| **Commit message** | `vault backup: {{date}}` | Keep default or customize |
+|Setting|Value|
+|---|---|
+|**Split automatic commit and sync**|OFF|
+|**Auto commit-and-sync after the latest commit (minutes)**|`1`|
 
-That's it. Close settings. From now on, the plugin handles everything.
+Leave everything else at defaults. That's it — the plugin will automatically pull, commit, and push every minute while Obsidian is open.
 
 ---
 
-## Daily workflow (no terminal)
+## Daily workflow (no terminal needed)
 
 1. **Open Obsidian** — plugin pulls latest changes automatically
-2. **Write and edit** — plugin commits and pushes every 5 minutes
+2. **Write and edit normally** — plugin commits and pushes every minute
 3. **Close Obsidian** — your changes are already synced
 
-You can also manually trigger sync: open the command palette (`Ctrl+P` / `Cmd+P`) and type `Git: Commit-and-sync`.
+You can also manually trigger sync anytime: open the command palette (`Ctrl+P` / `Cmd+P`) and type **Git: Commit-and-sync**.
 
 ---
 
-## If someone asks "what if we edit the same file?"
+## What if two people edit the same file?
 
-Git merges text files intelligently. If two people edit *different parts* of the same note, it merges cleanly with no intervention. If two people edit the *exact same line*, Git flags a merge conflict. The obsidian-git plugin will show you both versions and let you pick. In practice, with a 5-minute sync interval and a team of five, this almost never happens.
+Git merges text files intelligently. If two people edit _different parts_ of the same note, it merges automatically. If two people edit the _exact same line_, Git flags a merge conflict. The plugin will show you both versions and you pick which to keep. With a 1-minute sync interval and a small team, this almost never happens.
 
-**Tip:** Structure your vault so that people primarily work in different folders or files. For a game project, this is natural — lore in one place, level design notes in another, art references in a third.
+**Tip:** Structure the vault so people primarily work in different folders or files. For a game project this is natural — lore in one area, level design notes in another, art references in a third.
 
 ---
 
 ## Troubleshooting
 
-**"Authentication failed"**  
-Re-run the clone step or generate a new Personal Access Token (Part 4).
+**"Authentication failed" or 403 error**  
+See the credential troubleshooting steps for your OS above. Most likely you need to regenerate your token or clear a stale credential.
 
 **"Merge conflict" notification**  
-Open the flagged file. You'll see markers like `<<<<<<< HEAD` and `>>>>>>>`. Pick the version you want, delete the markers, save. Then commit-and-sync from the command palette.
+Open the flagged file. You'll see markers like `<<<<<<< HEAD` and `>>>>>>>`. Keep the version you want, delete the markers, save. Then open the command palette and run **Git: Commit-and-sync**.
 
 **Plugin says "Git is not ready"**  
 Git isn't in your system PATH. On Windows, reinstall Git and make sure "Add to PATH" is checked. On macOS, run `xcode-select --install`.
 
 **Large files or images**  
-Git works best with text. If your vault includes large images or PDFs, consider adding a `.gitignore` file with entries like `*.psd` or a size threshold. For game assets, keep those in your Godot repo, not the lore vault.
-
----
-
-## Summary
-
-| | |
-|---|---|
-| **Cost** | Free (GitHub private repos are free) |
-| **Real-time editing** | No (syncs every few minutes) |
-| **Version history** | Full history of every change |
-| **Terminal needed** | Only once, during initial setup |
-| **Server** | None (GitHub handles everything) |
-| **Works offline** | Yes (syncs when back online) |
+Git works best with text. If your vault includes large images or PDFs, consider adding a `.gitignore` file. For game assets, keep those in your Godot repo, not the lore vault.
